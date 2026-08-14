@@ -7,4 +7,6 @@ authors = [
     { name = "anghernandez", email = "kari345hernandez@gmail.com" }
 ]
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "typer>=0.27.1",
+]
