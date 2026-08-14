@@ -1,0 +1,10 @@
+[project]
+name = "laboratorio-ia-git-equipo"
+version = "0.1.0"
+description = "Matrix operations CLI application"
+readme = "README.md"
+authors = [
+    { name = "anghernandez", email = "kari345hernandez@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = []
