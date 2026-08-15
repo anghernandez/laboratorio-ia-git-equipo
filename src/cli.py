@@ -63,5 +63,25 @@ def det(file_path: str):
 
     operation.Clear()
 
+@app.command()  
+def inv(file_path: str):
+    data = load_matrices(file_path)
+
+    matrix_a = data["matrixA"]["data"]
+    matrix_b = data["matrixB"]["data"]
+
+    application = Application()
+    operation = application.get_operation("inv")
+
+    operation.SetMatrix(0, matrix_a)
+    operation.SetMatrix(1, matrix_b)
+
+    result = operation.Compute()
+
+    print(result)
+
+    operation.Clear()
+
+
 if __name__ == "__main__":
     app()
