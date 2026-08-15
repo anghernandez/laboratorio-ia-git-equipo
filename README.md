@@ -299,21 +299,21 @@ Si alguna condición no se cumple, la aplicación genera un error indicando el p
 - **uv** — gestión del proyecto, entorno y dependencias.
 - **Git** — control de versiones.
 - **GitHub** — alojamiento del repositorio y flujo de Pull Requests.
-- **______________________________** — elaboración del diagrama de diseño.
+- **Draw.io y OpenIA** — elaboración visual del diagrama de diseño.
 
 ---
 
 # Integrantes
 
-- ______________________________
-- ______________________________
+- Milagro Rojas
+- Angie Hernández
 
 ## Curso
 
-**Curso:** ______________________________
+**Curso:** Introducción a la Computación Heterogénea 
 
-**Profesor:** ______________________________
+**Profesor:** Luis G. Leon Vega
 
-**Institución:** ______________________________
+**Institución:** Instituto Tecnológico de Costa Rica
 
-**Periodo:** ______________________________
+**Periodo:** II Semestre 2026
