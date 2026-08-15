@@ -87,14 +87,14 @@ Para ejecutar el proyecto se requiere:
 Versiones utilizadas durante el desarrollo:
 
 ```text
-Python: ______________________________
-uv: ______________________________
+Python 3.14.4
+uv: 0.12.3
 ```
 
 ## 1. Clonar el repositorio
 
 ```bash
-git clone ______________________________
+git clone 
 ```
 
 Ingresar al directorio:
